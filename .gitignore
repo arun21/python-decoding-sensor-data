@@ -67,6 +67,7 @@ instance/
 .DS_Store
 
 # Virtualenv
+senordata_env/
 venv/
 venv36/
 venv37/
